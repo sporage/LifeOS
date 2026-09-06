@@ -1,3 +1,11 @@
+# Fork Purpose
+
+This fork of the LifeOS of repository isn't for users, it's almost entirely for Testing Patches or Fixes or Enhancements to LifeOS.
+
+I would prefer people star and clone the upstream repository for any intended deployment.
+//@emory
+***
+
 <p align="center">
   <br />
   <img src="./images/lifeos-logo-full.png" alt="LifeOS" width="460">
